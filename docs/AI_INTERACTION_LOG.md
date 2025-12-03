@@ -1,4 +1,4 @@
-## Chat GPT will be used for this
+## Chat GPT will be used for this project
 
 ## The AI Code is in the Bag, Container and BagTest Class
 

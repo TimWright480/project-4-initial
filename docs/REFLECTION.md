@@ -3,4 +3,4 @@ It gives out. For this assignment. AI is a rockstar at fixing errors and generat
 For this project 4, the test class is used for running the code. AI is very fast at generating any questions regarding improvements. 
 With using AI, it generated way more test completions than before making improvements. 
 The project was more about completing tests and understanding what the test is doing. So, there is no output generated from executing a test code. 
-Following project directions is still very important not just for a grade but make sure you get the code/output you want. 
+Following project directions is still very important not just for a grade but make sure you get the code and output you want. 
